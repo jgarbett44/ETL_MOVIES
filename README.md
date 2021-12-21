@@ -1,1 +1,1 @@
-# ETL_Movies
+## Due to GitHub limitations for my payment plan, it's not possible to include the ratings.csv file in the Resources folder.
